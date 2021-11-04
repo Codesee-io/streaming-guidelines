@@ -1,4 +1,4 @@
-# Streaming with <NAME>
+# Streaming with `<NAME>`
 
 Thank you so much for joining! Below are some details for the show.
 
@@ -32,7 +32,7 @@ Content will be streamed to Facebook, Twitch and YouTube simultaneously, the lat
 
 ## Moderation and chat
   
-Don’t worry about any of this, we’ll handle it all for you! When there are relevant questions or comments from chat, your host will read them aloud for you to address. If you would like to, you can have a muted browser window pointed to <TWITCH_URL> to follow along with the chat in real time. Be aware that there is a lag between StreamYard and Twitch, so if you do have a window with Twitch open, it’s often helpful to drag your StreamYard window over the Twitch video to keep the different video speeds from being confusing.
+Don’t worry about any of this, we’ll handle it all for you! When there are relevant questions or comments from chat, your host will read them aloud for you to address. If you would like to, you can have a muted browser window pointed to `<TWITCH_URL>` to follow along with the chat in real time. Be aware that there is a lag between StreamYard and Twitch, so if you do have a window with Twitch open, it’s often helpful to drag your StreamYard window over the Twitch video to keep the different video speeds from being confusing.
 
 ## Promotion
   
