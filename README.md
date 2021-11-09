@@ -26,6 +26,8 @@ We expect our hosts and guests on the show to lead by example. Respectful, non-h
   
 We start at the time listed on the calendar, but please if you can join the StreamYard call 15 minutes before the top of the hour to make sure all the tech work is done.
 
+The amount of time allotted on the calendar is a guideline. Please don't worry about sticking stricly to it! If we find a natural stopping point, we'll draw it to a close. If we go a little over, that's fine, too!
+
 ## VOD (video on demand)
   
 Content will be streamed to Facebook, Twitch and YouTube simultaneously, the latter of which will be retained for viewing at any time.
